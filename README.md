@@ -13,4 +13,4 @@ Main folder
 - Language-specific folder
   - Algorithm/Project-specific folder
     - Source code file/folder
-    - (optional) codewarslink.txt
+    - (optional) codewarslink.txt (Some algorithms were written for Codewars-specific katas (challenges), so I provide the link to the challenge they belong to.)
